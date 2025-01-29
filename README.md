@@ -33,6 +33,17 @@ private_key_3
 ...
 ```
 
+### 4.1 Install Required Dependencies
+```bash
+sudo apt get python3
+```
+```bash
+python3 -m venv venv
+```
+```bash
+source venv/bin/activate
+```
+
 ### 4. Install Required Dependencies
 Make sure you have Python installed on your system. Then, install the required dependencies using the requirements.txt file:
 
