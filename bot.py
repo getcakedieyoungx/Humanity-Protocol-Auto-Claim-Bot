@@ -11,7 +11,7 @@ def display_header():
     header_text = """
     ===============================
     Auto Daily Claim $RWT Humanity Protocol
-    Bot created by: https://t.me/AirdropInsiderID
+    Bot created by: getcakedieyoungx-AlperenOZ
     ===============================
     """
     print(Fore.CYAN + Style.BRIGHT + header_text + "\n")
