@@ -38,6 +38,9 @@ private_key_3
 sudo apt-get install python3
 ```
 ```bash
+sudo apt-get install python3-venv
+```
+```bash
 python3 -m venv venv
 ```
 ```bash
