@@ -35,7 +35,7 @@ private_key_3
 
 ### 4.1 Install Required Dependencies
 ```bash
-sudo apt get python3
+sudo apt-get install python3
 ```
 ```bash
 python3 -m venv venv
