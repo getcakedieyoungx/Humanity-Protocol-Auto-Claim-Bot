@@ -20,7 +20,7 @@ git clone https://github.com/getcakedieyoungx/Humanity-Protocol-Auto-Claim-Bot.g
 Navigate to the folder where the repository was cloned:
 
 ```bash
-cd HumanityTestnet-Bot
+cd Humanity-Protocol-Auto-Claim-Bot
 ```
 
 ### 3. Create the private_keys.txt File
