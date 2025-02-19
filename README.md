@@ -1,5 +1,8 @@
 # Auto Daily Claim $RWT Humanity Protocol Bot
 
+Join tg, I will post bots there too.
+[Telegram](https://t.me/getcakedieyoungx)
+
 ## Introduction
 This bot automates the daily claiming of $RWT rewards from the Humanity Protocol using multiple wallets. It is designed to be easy to set up and use.
 
