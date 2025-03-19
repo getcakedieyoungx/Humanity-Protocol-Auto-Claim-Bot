@@ -45,8 +45,6 @@ sudo apt-get install python3-venv
 ```
 ```bash
 python3 -m venv venv
-```
-```bash
 source venv/bin/activate
 ```
 
